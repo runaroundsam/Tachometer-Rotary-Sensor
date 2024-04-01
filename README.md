@@ -1,2 +1,2 @@
-# Tachometer-Rotary-Sensor
-ECE484 midterm 
+# Rotary Encoder
+ECE484 midterm project 
